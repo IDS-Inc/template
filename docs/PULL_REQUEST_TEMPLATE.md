@@ -25,8 +25,6 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
 - [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] CI build is green
-- [ ] CodeClimate does not see any new issues
 - [ ] "Ready for Review" label is attached to the PR and reviewers are mentioned in the comments
 - [ ] Any dependent changes have been merged and published in downstream modules
 - [ ] JIRA issue has a link to this pull request
